@@ -48,5 +48,5 @@ function encriptar(stringEncriptada) {
         }
          
         return stringDesencriptada;
-        }
+    }
     
